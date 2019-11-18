@@ -9,6 +9,7 @@ namespace Lab02
 			int number1;
 			int number2;
 			int product;
+        //testing
 
 			Console.Write("Enter first int: ");
 			number1 = Convert.ToInt32(Console.ReadLine());
